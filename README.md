@@ -2,7 +2,11 @@
 
 A demo of Hugo mark down file web server
 
-To run, execute:
+# Gitpod
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/hugo-demo) for free (simply create an account)
+
+To run locally, execute:
 
     git clone https://github.com/RamSailopal/hugo-demo.git
     cd hugo-demo
