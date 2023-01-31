@@ -26,7 +26,7 @@ To run locally, execute:
  
  With the  line **draft: false** the web server should build the file automatically and the converted file should be available to view from http://localhost:1313
  
- **Note** - With the line **draft: true** the md file will not be automatically converted to html for viewing.
+ **Note** - With the line **draft: true** the md file will not be automatically converted to html for viewing until set to false.
  
  # Hugo site themes
  
@@ -34,7 +34,7 @@ To run locally, execute:
  
  # Configuring the site
  
- The file **data/test/config.toml** hold details  about the file, i.e. the theme used and the title
+ The file **data/test/config.toml** holds details about the file, i.e. the theme used and the title
  
  # References
  
