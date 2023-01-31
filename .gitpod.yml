@@ -1,0 +1,8 @@
+tasks:
+  - init: |
+      echo 'TODO: build project'
+    command: |
+      docker run --entrypoint /home/data/entrypoint.sh -p 1313:1313 -v "$PWD/data:/home/data" -it ubuntu /bin/bash
+ports:
+  - port: 1313
+    visibility: public
