@@ -16,7 +16,9 @@ To run locally, execute:
  
  Navigate to:
  
- http://localhost:1313
+ http://localhost:1313 - Local deployment
+
+ https://1313-gitpodaddress - Gitpod deployment
  
  # Creating new md files
  
