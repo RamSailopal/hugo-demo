@@ -1,6 +1,6 @@
 # hugo-demo
 
-A demo of Hugo mark down file web server
+A demo of Hugo mark down, file web server
 
 # Gitpod
 
